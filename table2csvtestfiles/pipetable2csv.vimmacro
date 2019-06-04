@@ -1,0 +1,19 @@
+# From 
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+
+
+# To
+
+Right,Left,Default,Center
+12,12,12,12
+123,123,123,123
+1,1,1,1
+
+
+# Using
+Vjjjj:s/|/,€kb,/gVkkkksukVjjjj:s/ /g€kb/gVkkkk:s/-//g€kb€kb€kbjdd:kVjjj:/,€kbVjjjjk:s/^,//g:€kl€kl€kl€kl€kl€kr€kb€kr$j:
